@@ -31,8 +31,12 @@ body {
 }
 
 .author {
+    text-align: center;
 }
 .author img {
+    border: 4px solid darkred;
+    border-radius: 50pt;
+    margin-top: -50px;
 }
 .author p {
 }
